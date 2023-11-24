@@ -1,1 +1,1 @@
-Digit recognition (0-9) through voice recording with FNN model
+Digit recognition (0-9) through voice recording with FNN model which is trained with 30000 recordings from : https://github.com/soerenab/AudioMNIST/tree/master
